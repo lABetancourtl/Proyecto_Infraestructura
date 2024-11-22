@@ -1,11 +1,9 @@
-# **Bitacora Del Proyecto Final Infraestructura**
+# *BITACORA DEL PROYECTO FINAL DE INFRAESTRUCTURA COMPUTACIONAL UQ-*
 
-**Participantes**
-Brian Zuleta Tobón (CC: 1004915766)
-
-Anderson Betancourt (CC: 1094963718)
-
-Miguel Antonio Zuleta Delgado (CC: 1085686073)
+## **INTEGRANTES**
+### Brian Zuleta Tobón (CC: 1004915766)
+### Anderson Betancourt (CC: 1094963718)
+### Miguel Antonio Zuleta Delgado (CC: 1085686073)
 
 
 ### CREACIÓIN DE DIRECTORIOS PARA DAR FORMA A LA ESTRUCTURA DEL PROYECTO:
